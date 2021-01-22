@@ -43,7 +43,7 @@ namespace Urban_Planner
         {
             Building building1 = new Building("71 5th Ave")
             {
-                Width = 100,
+                Width = 1001.12,
                 Height = 250,
                 Stories = 5,
             };
