@@ -64,7 +64,7 @@ namespace Urban_Planner
             Console.WriteLine($"Constructed on {building2.Construct()}");
             Console.WriteLine($"Owned by {building2.Purchase("A new owner")}");
             Console.WriteLine($"{building2.Volume} cubic meters of space");
-
+            Console.WriteLine();
         }
     }
 }
