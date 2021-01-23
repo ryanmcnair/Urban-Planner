@@ -6,8 +6,4 @@
     <RootNamespace>Urban_Planner</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Building\" />
-  </ItemGroup>
-
 </Project>
